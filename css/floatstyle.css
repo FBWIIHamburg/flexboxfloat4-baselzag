@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+
+
+
+.nav{
+   float: left;
+    background-color: red;
+    height: 100vh;
+    width: 20%;
+}
+
+
+
+.header{
+    float: left;
+    background-color: blue;
+   height: 20vh;
+   width: 80%;
+}
+
+.middle{
+    float: left;
+    background-color: gray;
+    height: 60vh;
+    width: 80%;
+
+}
+
+
+.footer{
+    float: left;
+    background-color: green;
+   height: 20vh;
+   width: 80%;
+
+}
